@@ -2,10 +2,10 @@
 
 ## 实现功能
 
-- [ ] 通过 yeoman-generator 自定义脚手架工具
-- [ ] 初始化一个纯 html/css/js 项目
-- [ ] 初始化一个 vue SPA 应用 & node-cli
-- [ ] 初始化一个 node-cli
+- [x] 通过 yeoman-generator 自定义脚手架工具
+- [x] 初始化一个纯 html/css/js 项目
+- [x] 初始化一个 vue SPA 应用 & node-cli
+- [x] 初始化一个 node-cli
 
 ## 使用工具
 
@@ -29,12 +29,14 @@
 
 目录结构：
 
+```
 |- generators
   |- app
     |- index.js
 |- package.json
 |- .gitignore
 |- README.md
+```
 
 ### 2、增加模版 & 交互
 
