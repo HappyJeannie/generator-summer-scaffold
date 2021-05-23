@@ -12,5 +12,17 @@
   "devDependencies": {
     "chalk": "^4.1.1",
     "glob": "^7.1.7"
+  },
+  "keywords": ["yeoman-generator"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HappyJeannie/generator-summer-scaffold.git/"
+  },
+  "author": {
+    "name": "HappyJeannie",
+    "email": "436030684@qq.com"
+  },
+  "engines": {
+    "node": ">=6"
   }
 }
